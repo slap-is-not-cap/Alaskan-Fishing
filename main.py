@@ -64,3 +64,7 @@ while playing:
         time.sleep(2)
         print('I\'ts a bit old but it\'ll do the job until you can afford a brand new one.\n\n')
         time.sleep(3)
+
+
+    if main == 'go fishing' or main == 'fish':
+        if rod:
